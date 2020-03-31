@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tablelinensforless/static/css/main.f7039a1a.chunk.css",
+    "main.css": "/tablelinensforless/static/css/main.2a295454.chunk.css",
     "main.js": "/tablelinensforless/static/js/main.ea92942a.chunk.js",
     "main.js.map": "/tablelinensforless/static/js/main.ea92942a.chunk.js.map",
     "runtime-main.js": "/tablelinensforless/static/js/runtime-main.f0c83658.js",
@@ -8,9 +8,9 @@
     "static/js/2.48d15c91.chunk.js": "/tablelinensforless/static/js/2.48d15c91.chunk.js",
     "static/js/2.48d15c91.chunk.js.map": "/tablelinensforless/static/js/2.48d15c91.chunk.js.map",
     "index.html": "/tablelinensforless/index.html",
-    "precache-manifest.f2522afa6d235357df2b1b19def8b489.js": "/tablelinensforless/precache-manifest.f2522afa6d235357df2b1b19def8b489.js",
+    "precache-manifest.32a6988e645b051372b96845bdf18fe6.js": "/tablelinensforless/precache-manifest.32a6988e645b051372b96845bdf18fe6.js",
     "service-worker.js": "/tablelinensforless/service-worker.js",
-    "static/css/main.f7039a1a.chunk.css.map": "/tablelinensforless/static/css/main.f7039a1a.chunk.css.map",
+    "static/css/main.2a295454.chunk.css.map": "/tablelinensforless/static/css/main.2a295454.chunk.css.map",
     "static/js/2.48d15c91.chunk.js.LICENSE.txt": "/tablelinensforless/static/js/2.48d15c91.chunk.js.LICENSE.txt",
     "static/media/brands_simplylinen.svg": "/tablelinensforless/static/media/brands_simplylinen.018cfaa8.svg",
     "static/media/brands_simplypoly.svg": "/tablelinensforless/static/media/brands_simplypoly.61866982.svg",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.f0c83658.js",
     "static/js/2.48d15c91.chunk.js",
-    "static/css/main.f7039a1a.chunk.css",
+    "static/css/main.2a295454.chunk.css",
     "static/js/main.ea92942a.chunk.js"
   ]
 }
