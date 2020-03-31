@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tablelinensforless/static/css/main.e1186409.chunk.css",
-    "main.js": "/tablelinensforless/static/js/main.2f1b3642.chunk.js",
-    "main.js.map": "/tablelinensforless/static/js/main.2f1b3642.chunk.js.map",
+    "main.css": "/tablelinensforless/static/css/main.a04576c7.chunk.css",
+    "main.js": "/tablelinensforless/static/js/main.ea92942a.chunk.js",
+    "main.js.map": "/tablelinensforless/static/js/main.ea92942a.chunk.js.map",
     "runtime-main.js": "/tablelinensforless/static/js/runtime-main.f0c83658.js",
     "runtime-main.js.map": "/tablelinensforless/static/js/runtime-main.f0c83658.js.map",
     "static/js/2.48d15c91.chunk.js": "/tablelinensforless/static/js/2.48d15c91.chunk.js",
     "static/js/2.48d15c91.chunk.js.map": "/tablelinensforless/static/js/2.48d15c91.chunk.js.map",
     "index.html": "/tablelinensforless/index.html",
-    "precache-manifest.01eee0fe23a5a461103d367aa89c6607.js": "/tablelinensforless/precache-manifest.01eee0fe23a5a461103d367aa89c6607.js",
+    "precache-manifest.2a4c47a2ae11fb236e38724d4e314a15.js": "/tablelinensforless/precache-manifest.2a4c47a2ae11fb236e38724d4e314a15.js",
     "service-worker.js": "/tablelinensforless/service-worker.js",
-    "static/css/main.e1186409.chunk.css.map": "/tablelinensforless/static/css/main.e1186409.chunk.css.map",
+    "static/css/main.a04576c7.chunk.css.map": "/tablelinensforless/static/css/main.a04576c7.chunk.css.map",
     "static/js/2.48d15c91.chunk.js.LICENSE.txt": "/tablelinensforless/static/js/2.48d15c91.chunk.js.LICENSE.txt",
     "static/media/brands_simplylinen.svg": "/tablelinensforless/static/media/brands_simplylinen.018cfaa8.svg",
     "static/media/brands_simplypoly.svg": "/tablelinensforless/static/media/brands_simplypoly.61866982.svg",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.f0c83658.js",
     "static/js/2.48d15c91.chunk.js",
-    "static/css/main.e1186409.chunk.css",
-    "static/js/main.2f1b3642.chunk.js"
+    "static/css/main.a04576c7.chunk.css",
+    "static/js/main.ea92942a.chunk.js"
   ]
 }
