@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5b68449d64a27be4d756426043e7887",
+    "revision": "96adc56f5b90f1b85a3347240ae486e6",
     "url": "/tablelinensforless/index.html"
   },
   {
-    "revision": "668578fbe7b0e9b52cc9",
+    "revision": "ee029c552e61366adb6d",
     "url": "/tablelinensforless/static/css/main.17af3512.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tablelinensforless/static/js/2.48d15c91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "668578fbe7b0e9b52cc9",
-    "url": "/tablelinensforless/static/js/main.ccecb480.chunk.js"
+    "revision": "ee029c552e61366adb6d",
+    "url": "/tablelinensforless/static/js/main.be97c828.chunk.js"
   },
   {
     "revision": "b242dc4397e0e81cdfb1",
