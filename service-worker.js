@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tablelinensforless/precache-manifest.7bbfd6dab5d26e20d3e9150fd2fd7a2a.js"
+  "/tablelinensforless/precache-manifest.d23751fe054c104a2a69a7f1a3dd3c94.js"
 );
 
 self.addEventListener('message', (event) => {

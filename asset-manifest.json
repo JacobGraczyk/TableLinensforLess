@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tablelinensforless/static/css/main.17af3512.chunk.css",
-    "main.js": "/tablelinensforless/static/js/main.be97c828.chunk.js",
-    "main.js.map": "/tablelinensforless/static/js/main.be97c828.chunk.js.map",
+    "main.css": "/tablelinensforless/static/css/main.711fd9eb.chunk.css",
+    "main.js": "/tablelinensforless/static/js/main.dced5727.chunk.js",
+    "main.js.map": "/tablelinensforless/static/js/main.dced5727.chunk.js.map",
     "runtime-main.js": "/tablelinensforless/static/js/runtime-main.f0c83658.js",
     "runtime-main.js.map": "/tablelinensforless/static/js/runtime-main.f0c83658.js.map",
     "static/js/2.48d15c91.chunk.js": "/tablelinensforless/static/js/2.48d15c91.chunk.js",
     "static/js/2.48d15c91.chunk.js.map": "/tablelinensforless/static/js/2.48d15c91.chunk.js.map",
     "index.html": "/tablelinensforless/index.html",
-    "precache-manifest.7bbfd6dab5d26e20d3e9150fd2fd7a2a.js": "/tablelinensforless/precache-manifest.7bbfd6dab5d26e20d3e9150fd2fd7a2a.js",
+    "precache-manifest.d23751fe054c104a2a69a7f1a3dd3c94.js": "/tablelinensforless/precache-manifest.d23751fe054c104a2a69a7f1a3dd3c94.js",
     "service-worker.js": "/tablelinensforless/service-worker.js",
-    "static/css/main.17af3512.chunk.css.map": "/tablelinensforless/static/css/main.17af3512.chunk.css.map",
+    "static/css/main.711fd9eb.chunk.css.map": "/tablelinensforless/static/css/main.711fd9eb.chunk.css.map",
     "static/js/2.48d15c91.chunk.js.LICENSE.txt": "/tablelinensforless/static/js/2.48d15c91.chunk.js.LICENSE.txt",
     "static/media/brands_simplylinen.svg": "/tablelinensforless/static/media/brands_simplylinen.018cfaa8.svg",
     "static/media/brands_simplypoly.svg": "/tablelinensforless/static/media/brands_simplypoly.61866982.svg",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.f0c83658.js",
     "static/js/2.48d15c91.chunk.js",
-    "static/css/main.17af3512.chunk.css",
-    "static/js/main.be97c828.chunk.js"
+    "static/css/main.711fd9eb.chunk.css",
+    "static/js/main.dced5727.chunk.js"
   ]
 }
